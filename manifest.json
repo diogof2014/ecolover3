@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.diogo.fig.2014",
+    "description": "Eclover3 energy consumption calculator app",
+    "framework": "ubuntu-sdk-14.04-qml-dev1",
+    "architecture": "all",
+    "title": "EcoLover",
+    "hooks": {
+        "EcoLover3": {
+            "apparmor": "EcoLover3.json",
+            "desktop": "EcoLover3.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "DF"
+}

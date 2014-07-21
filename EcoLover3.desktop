@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=EcoLover3
+Exec=/usr/bin/qmlscene $@ /usr/share/EcoLover3/EcoLover3.qml
+Icon=EcoLover3.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

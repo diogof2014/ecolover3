@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of Ecolover3001",
+    "framework": "ubuntu-sdk-14.04-dev1",
+    "hooks": {
+        "EcoLover": {
+            "apparmor": "EcoLover.json",
+            "desktop": "EcoLover.desktop"
+        }
+    },
+    "maintainer": "DiogoF",
+    "name": "com.ubuntu.developer.diogo.fig.2014.ecolover3001",
+    "title": "Ecolover3001",
+    "version": "0.1"
+}
